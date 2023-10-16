@@ -26,7 +26,7 @@ options:
   networks:
     - broadcast: 192.168.1.255
       gateway: 192.168.1.1
-      interface: eth0
+      interface: end0
       netmask: 255.255.255.0
       range_end: 192.168.1.200
       range_start: 192.168.1.100
